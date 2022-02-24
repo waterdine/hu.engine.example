@@ -1,0 +1,140 @@
+/*
+  Story.strings
+  OriginsOfPrincessSayaka
+
+  Created by A. A. Bills on 12/02/2021.
+  
+*/
+
+// Scene 1 - Intro
+
+/* Chapter 1 */
+
+// Scene 2 - Chapter Transition
+"chapter_1_horizontal_number" = "Chapter 1";
+"chapter_1_horizontal_title" = "The Betrayal of the Shogun";
+"chapter_1_vertical_number" = "第一話";
+"chapter_1_vertical_title" = "将軍の裏切り";
+
+// Scene 3 - CutScene
+"chapter_1_scene_3_line_1" = "17世紀、封建時代の日本。武士階級の長である将軍は独自の権力を有していた。";
+"chapter_1_scene_3_line_2" = "権力に飢えた将軍は、神聖なる日本国天皇を転覆させようと企んでいる。";
+"chapter_1_scene_3_line_3" = "有名な数学者であり侍でもある貴方（あなた）は、天皇の私的な通信を解読するために将軍に雇われることとなった。";
+"chapter_1_scene_3_line_4" = "貴方は、将軍に協力して日本国天皇を貶める陰謀に同意したのである。";
+
+// Scene 4 - Story, Shogun
+"chapter_1_scene_4_line_1" = "「侍よ、よく来たな！」";
+"chapter_1_scene_4_line_2" = "「私は相模国（さがみのくに）の将軍だ。この国の土地を統治している」";
+"chapter_1_scene_4_line_3" = "「お主には今から私の僕（しもべ）として働いてもらう」";
+"chapter_1_scene_4_line_4" = "「お主の類い稀なる数学の知識を使って、まずは、この手紙を解読してくれ」";
+
+// Scene 5 - Puzzle, Note/Decryption Themed.
+"chapter_1_scene_5_line_1" = "将軍は天皇の使者の一人を捕らえ、手紙を横取りしていたのだ。";
+"chapter_1_scene_5_line_2" = "貴方は、この魔方陣（まほうじん）を解いて、手紙の内容を解読することになった。";
+//
+"chapter_1_scene_5_solved_line_1" = "手紙が解読できた！";
+"chapter_1_scene_5_solved_line_2" = "こう書いてある......";
+"chapter_1_scene_5_solved_line_3" = "忍び殿";
+"chapter_1_scene_5_solved_line_4" = "私の命が狙われている。どうかお助けを。";
+"chapter_1_scene_5_solved_line_5" = "悪徳将軍が善良な民を攻撃しており、彼の統治下ではない平和な部落にまで侵入しつつある。";
+"chapter_1_scene_5_solved_line_6" = "天皇";
+
+// Scene 6 - Story, Shogun
+"chapter_1_scene_6_line_1" = "「平和な部落だと？」";
+"chapter_1_scene_6_line_2" = "「天皇は自分の城に隠れているから、村民のことなぞ何もわかってないのだな」";
+"chapter_1_scene_6_line_3" = "「怠惰な村民どもを取りまとめているのは、我々、武家の侍だというのに」";
+"chapter_1_scene_6_line_4" = "「それに、天皇はあの有名な忍者に助けを求めているだと！？」";
+"chapter_1_scene_6_line_5" = "「これは止めさせねばならぬ」";
+"chapter_1_scene_6_line_6" = "「侍よ、天皇からの手紙と見せかけた偽の手紙を作ってくれ」";
+"chapter_1_scene_6_line_7" = "「その忍者には、天皇を助けるのではなく、反対に村民を攻撃させてやろう」";
+"chapter_1_scene_6_line_8" = "「偽の手紙で、米問屋を燃やせと忍者に伝えろ！」";
+
+// Scene 7 - Puzzle, Note/Encryption Themed.
+"chapter_1_scene_7_line_1" = "貴方は天皇になりすまし、偽の手紙を書くことになった。";
+"chapter_1_scene_7_line_2" = "偽の手紙にはこう書いた......";
+"chapter_1_scene_7_line_3" = "忍び殿";
+"chapter_1_scene_7_line_4" = "これは天皇命令である。";
+"chapter_1_scene_7_line_5" = "鎌倉の米問屋を襲撃し、跡形もなく燃やすこと。";
+"chapter_1_scene_7_line_6" = "天皇";
+"chapter_1_scene_7_line_7" = "次に、貴方はこの手紙を暗号化し、元の手紙と見分けがつかないようにする。";
+//
+"chapter_1_scene_7_solved_line_1" = "手紙が暗号化された。これで忍者は、この手紙を天皇からのものだと疑わないだろう。";
+"chapter_1_scene_7_solved_line_2" = "使者はこの偽の手紙を持って忍者のもとへ行った。";
+// Play e-mail sending sound.
+
+// Scene 8 - Story, Shogun
+"chapter_1_scene_8_line_1" = "「これで良し！」";
+"chapter_1_scene_8_line_2" = "「我ながら天才だ」";
+"chapter_1_scene_8_line_3" = "「米が無くなれば、村民はすぐに天皇に腹を立てることだろう！」";
+"chapter_1_scene_8_line_4" = "「お主、これからも天皇の手紙を傍受し続けてくれ」";
+"chapter_1_scene_8_line_5" = "「いずれ誰かが我々の企てに気が付いて天皇に警告するだろうからな」";
+
+// Scene 9 - Puzzle, Note/Decryption Themed.
+"chapter_1_scene_9_line_1" = "天皇宛の別の手紙を手に入れた。";
+"chapter_1_scene_9_line_2" = "手紙の暗号を解読するには、この魔方陣を解く必要がある。";
+//
+
+"chapter_1_scene_9_solved_line_1" = "手紙が解読できた！";
+"chapter_1_scene_9_solved_line_2" = "こう書いてある......";
+"chapter_1_scene_9_solved_line_3" = "天皇陛下様";
+"chapter_1_scene_9_solved_line_4" = "鎌倉の米問屋に五人の忍者が侵入するのを目撃しました。";
+"chapter_1_scene_9_solved_line_5" = "これは何者かによる陰謀だと思われます。";
+"chapter_1_scene_9_solved_line_6" = "陛下の家臣、小山より";
+
+// Scene 10 - Story, Shogun
+"chapter_1_scene_10_line_1" = "「思った通りだ！」";
+"chapter_1_scene_10_line_2" = "「小山の奴め！」";
+"chapter_1_scene_10_line_3" = "「侍よ、小山を殺めて奴の【刀】を奪ってくるのだ！」";
+
+// Scene 11 - Story, Shogun
+"chapter_1_scene_11_line_1" = "「素晴らしい......これで小山はおしまいだ！」";
+"chapter_1_scene_11_line_2" = "「お主は本物の侍だな」";
+"chapter_1_scene_11_line_3" = "「次は、こちらの企てを天皇に気づかれないようにすることだ」";
+"chapter_1_scene_11_line_4" = "「村民は米問屋が燃やされたことで怒っている。今日これから天皇の御所を襲撃するらしい」";
+"chapter_1_scene_11_line_5" = "「そこで天皇が村民をぞんざいに扱うように仕向けよう。そうすればこちらに疑いの目を向けられる心配は無くなる」";
+"chapter_1_scene_11_line_6" = "「侍よ、小山になりすまして、天皇に偽の手紙を書いてくれ」";
+"chapter_1_scene_11_line_7" = "「これは小山の印鑑だ。これを使えば手紙が偽造できる」";
+"chapter_1_scene_11_line_8" = "「この印があれば、天皇は自分の家臣だった小山からの手紙だと疑わないだろう」";
+
+// Scene 12 - Puzzle, Note/Encryption Themed.
+"chapter_1_scene_12_line_1" = "貴方は小山になりすまし、偽の手紙を書くことになった。";
+"chapter_1_scene_12_line_2" = "偽の手紙にはこう書いた......";
+"chapter_1_scene_12_line_3" = "天皇陛下様";
+"chapter_1_scene_12_line_4" = "村民が陛下への抗議の意思を表して、米を燃やしたそうです！";
+"chapter_1_scene_12_line_5" = "加えて陛下の御所をこれから襲撃するそうです。危害が加わる前に何か行動を起こさねばなりません！";
+"chapter_1_scene_12_line_6" = "小山";
+"chapter_1_scene_12_line_7" = "次に、貴方はこの偽の手紙を暗号化し、元の手紙と見分けがつかないようにする。";
+//
+"chapter_1_scene_12_solved_line_1" = "偽の手紙が暗号化された。これで元の手紙と区別がつかなくなった。";
+"chapter_1_scene_12_solved_line_2" = "貴方は小山の印鑑を使い印を押した。";
+"chapter_1_scene_12_solved_line_3" = "使者はこの偽の手紙を持って天皇のもとへ行った。";
+ 
+// Scene 13 - CutScene
+"chapter_1_scene_13_line_1" = "その夜......";
+"chapter_1_scene_13_line_2" = "天皇は御所の防衛のために弓兵を準備した。";
+"chapter_1_scene_13_line_3" = "御所の入口の大門には、15人の鎌倉村民がくわや、つるはし、なたがまを持って立っている。";
+"chapter_1_scene_13_line_4" = "崖上の門の上から見下ろしているのは、弓兵の隊を指揮する皇帝護衛隊隊長の長井だ。";
+
+// Scene 14 - Story, Nagai
+"chapter_1_scene_14_line_1" = "「何か変だぞ、彼らは健全な村民だ」";
+"chapter_1_scene_14_line_2" = "「なぜ、彼らは自分たちが食べる米を燃やしたんだ？」";
+"chapter_1_scene_14_line_3" = "「これは何者かによる陰謀かもしれない！」";
+"chapter_1_scene_14_line_4" = "「何とかせねば！」";
+ 
+// Scene 15 - CutScene
+"chapter_1_scene_15_line_1" = "長井は護衛隊に、大門から皇室用の【酒樽】を村民の方へ転がすように命じた。";
+
+// Scene 16 - Story, Citizens
+"chapter_1_scene_16_line_1" = "「護衛隊が攻撃してきた！」";
+"chapter_1_scene_16_line_2" = "「気を引き締めろ！」";
+ 
+// Scene 17 - CutScene
+"chapter_1_scene_17_line_1" = "五十分後ーー、村民たちは道の上で転げ回り、酔っぱらって笑い、騒いでいた。";
+"chapter_1_scene_17_line_2" = "空になった酒樽を太鼓のように叩いている。";
+
+// Scene 18 - Story, Emperor
+"chapter_1_scene_18_line_1" = "「長井、良くやった！」";
+"chapter_1_scene_18_line_2" = "「村民たちを殺さずに我々を守る方法を生み出してくれた！」";
+"chapter_1_scene_18_line_3" = "「命令に従うだけが正しいとは限らない。君はそれを理解していて嬉しいよ」";
+
+// To Chapter 2

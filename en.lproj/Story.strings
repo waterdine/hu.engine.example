@@ -1,0 +1,76 @@
+/* 
+  Story.strings
+  OriginsOfPrincessSayaka
+
+  Created by A. A. Bills on 12/02/2021.
+  
+*/
+
+/* Rough rules:
+ 
+ Story will be spoken from one person.UI reflects the speaker.
+ Cutscenes will be written like a book、this person says、this person said、etc.
+ Your character "points out" and does not speak in quotations (until the very end).
+ Everything is kept gender neutral except for the Princess and Emperor.
+ ?? maybe change this to work out who is speaking based on previous context.
+ Keep descriptions short.
+ Try not to tell the reader how they feel about things、only convey pain or sensations (or the lack of them).
+ Keep everything in the present tense.
+ Changing to a new cutscene can be used to show passing of time or a sharp cut.
+ If passing time、use a fade transition.
+ */
+
+"Title" = "Evil Shogun";
+"Subtitle" = "Revenge of the Samurai";
+"Play" = "Play";
+"Continue" = "Continue";
+"Restart" = "Restart";
+"Setup" = "Setup";
+"Credits" = "Credits";
+"Main Menu" = "Main Menu";
+"Close" = "Close";
+"Yes" = "Yes";
+"No" = "No";
+"Restart the game!" = "Restart the game!";
+"Are you sure?" = "Are you sure?";
+"Skip Puzzles is Off" = "Skip Puzzles is Off";
+"Skip Puzzles is On" = "Skip Puzzles is On";
+"Text Speed: Slow" = "Text Speed: Slow";
+"Text Speed: Normal" = "Text Speed: Normal";
+"Text Speed: Fast" = "Text Speed: Fast";
+"Volume: Off" = "Volume: Off";
+"Volume: Low" = "Volume: Low";
+"Volume: Medium" = "Volume: Medium";
+"Volume: High" = "Volume: High";
+"Press to continue..." = "Press to continue...";
+"FontName" = "Papyrus";
+"FontScale" = "1.0";
+"ButtonFontName" = "Chalkduster";
+"CharacterFontName" = "Marker Felt Thin";
+"CharacterFontScale" = "1.0";
+"EncodeFontScale" = "1.55";
+"Check answer." = "Check answer.";
+"Shogun" = "Shogun";
+"The Emperor of Japan" = "The Emperor of Japan";
+"Citizens" = "Citizens";
+"Nagai" = "Nagai";
+"Captain Nagai" = "Captain Nagai";
+"Deputy of the Guard" = "Deputy of the Guard";
+"Guard" = "Guard";
+"Chief Retainer" = "Chief Retainer";
+"Merchant" = "Merchant";
+"Imperial Advisor" = "Imperial Advisor";
+"Grubby Villager" = "Grubby villager";
+"Takoya" = "Takoya";
+"Tiny Sumo Wrestler" = "Tiny Sumo Wrestler";
+"Princess Yuuka" = "Princess Yuuka";
+"Villager" = "Villager";
+"Bandit" = "Bandit";
+"Head Sushi Chef" = "Head Sushi Chef";
+"Sushi Chef" = "Sushi Chef";
+"Professor Rojuuyo" = "Professor Rojuuyo";
+"Small Samurai" = "Small Samurai";
+"Apothecary Master" = "Apothecary Master";
+"Ninja" = "Ninja";
+"You" = "You";
+"Language: en" = "Text: English";

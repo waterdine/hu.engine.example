@@ -1,0 +1,76 @@
+/* 
+  Story.strings
+  OriginsOfPrincessSayaka
+
+  Created by A. A. Bills on 12/02/2021.
+  
+*/
+
+/* Rough rules:
+ 
+ Story will be spoken from one person.UI reflects the speaker.
+ Cutscenes will be written like a book、this person says、this person said、etc.
+ Your character "points out" and does not speak in quotations (until the very end).
+ Everything is kept gender neutral except for the Princess and Emperor.
+ ?? maybe change this to work out who is speaking based on previous context.
+ Keep descriptions short.
+ Try not to tell the reader how they feel about things、only convey pain or sensations (or the lack of them).
+ Keep everything in the present tense.
+ Changing to a new cutscene can be used to show passing of time or a sharp cut.
+ If passing time、use a fade transition.
+ */
+
+"Title" = "悪徳将軍";
+"Subtitle" = "侍の復讐";
+"Play" = "あそぶ";
+"Continue" = "つづき";
+"Restart" = "最初から";
+"Setup" = "設定";
+"Credits" = "クレジット";
+"Main Menu" = "メニュー";
+"Close" = "閉じる";
+"Yes" = "はい";
+"No" = "いいえ";
+"Restart the game!" = "本当に最初から";
+"Are you sure?" = "始めてもいいですか？";
+"Skip Puzzles is Off" = "パズルスキップOFF";
+"Skip Puzzles is On" = "パズルスキップON";
+"Text Speed: Slow" = "テキスト速度：遅い";
+"Text Speed: Normal" = "テキスト速度：普通";
+"Text Speed: Fast" = "テキスト速度：速い";
+"Volume: Off" = "Volume: Off";
+"Volume: Low" = "Volume: Low";
+"Volume: Medium" = "Volume: Medium";
+"Volume: High" = "Volume: High";
+"Press to continue..." = "押してください...";
+"FontName" = "Hiragino Mincho Pro";
+"FontScale" = "0.9";
+"ButtonFontName" = "Hiragino Sans W6";
+"CharacterFontName" = "Hiragino Sans W6";
+"CharacterFontScale" = "0.8";
+"EncodeFontScale" = "1.0";
+"Check answer." = "解答を確認する";
+"Shogun" = "将軍";
+"The Emperor of Japan" = "天皇";
+"Citizens" = "村民";
+"Nagai" = "長井";
+"Captain Nagai" = "長井隊長";
+"Deputy of the Guard" = "副隊長";
+"Guard" = "護衛隊";
+"Chief Retainer" = "家老";
+"Merchant" = "商人";
+"Imperial Advisor" = "天皇の顧問";
+"Grubby Villager" = "汚れた村人";
+"Takoya" = "たこや";
+"Tiny Sumo Wrestler" = "ちびっこ力士";
+"Princess Yuuka" = "優香姫";
+"Villager" = "村人";
+"Bandit" = "追い剥ぎ";
+"Head Sushi Chef" = "寿司屋の大将";
+"Sushi Chef" = "寿司職人";
+"Professor Rojuuyo" = "六十四（ろじゅうよ）教授";
+"Small Samurai" = "子供の侍";
+"Apothecary Master" = "薬種屋の主人";
+"Ninja" = "忍者";
+"You" = "貴方";
+"Language: ja" = "日本語";

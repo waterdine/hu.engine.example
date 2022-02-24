@@ -1,0 +1,130 @@
+// Scene 1 - Intro
+// Scene 1 - Intro
+
+/* Chapter 1 */
+
+// Scene 2 - ChapterTransition
+"chapter_1_horizontal_number" = "Chapter 1";
+"chapter_1_horizontal_title" = "The Betrayal of The Shogun";
+"chapter_1_vertical_number" = "第一話";
+"chapter_1_vertical_title" = "将軍の裏切り";
+
+// Scene 3 - CutScene
+"chapter_1_scene_3_line_1" = "In the 17th century, the ruthless leader of Kamakura's feudal army is known as \"The Shogun\".";
+"chapter_1_scene_3_line_2" = "The power hungry ruler of Kamakura's warrior class is plotting to overthrow Japan's divine Emperor.";
+"chapter_1_scene_3_line_3" = "As a well known scholar of mathematics and a samurai, you have been recruited by The Shogun to decode the Emperor's private communications.";
+"chapter_1_scene_3_line_4" = "You have agreed to work with Kamakura's Shogun to plot against the Emperor.";
+
+// Scene 4 - Story
+"chapter_1_scene_4_line_1" = "'Welcome Samurai!'";
+"chapter_1_scene_4_line_2" = "'I am The Shogun and I rule all of Japan.'";
+"chapter_1_scene_4_line_3" = "'And... You are now my servant.'";
+"chapter_1_scene_4_line_4" = "'Servant! I have a message for you to decode.'";
+
+// Scene 5 - ZenPuzzle
+"chapter_1_scene_5_line_1" = "The Shogun has captured one of the Emperor's messengers.";
+"chapter_1_scene_5_line_2" = "You must decode the message they are carrying, by solving this magic square.";
+// Solved Text
+"chapter_1_scene_5_solved_line_1" = "You have decoded the message!";
+"chapter_1_scene_5_solved_line_2" = "You read it...";
+"chapter_1_scene_5_solved_line_3" = "To ninja,";
+"chapter_1_scene_5_solved_line_4" = "Save my life, ninja.";
+"chapter_1_scene_5_solved_line_5" = "Kamakura's silly shogun is attacking good citizens and is now trying to invade our peaceful community.";
+"chapter_1_scene_5_solved_line_6" = "From Emperor.";
+
+// Scene 6 - Story
+"chapter_1_scene_6_line_1" = "'Peaceful community?'";
+"chapter_1_scene_6_line_2" = "'The emperor hides away in the castle without a care for the common folk.'";
+"chapter_1_scene_6_line_3" = "'Whilst it is the Samurai who tend to the flocks of lazy citizens.'";
+"chapter_1_scene_6_line_4" = "'Now the emperor calls on the fabled ninja?!'";
+"chapter_1_scene_6_line_5" = "'I must put a stop to this.'";
+"chapter_1_scene_6_line_6" = "'You must get the ninja to attack the citizens, instead.'";
+"chapter_1_scene_6_line_7" = "'Create a fake message to the ninja and pretend to be the emperor.'";
+"chapter_1_scene_6_line_8" = "'Convince the ninja to burn the grain!'";
+
+// Scene 7 - ZenPuzzle
+"chapter_1_scene_7_line_1" = "You must pretend to be the Emperor, by creating a fake message.";
+"chapter_1_scene_7_line_2" = "You create a fake message...";
+"chapter_1_scene_7_line_3" = "To ninja,";
+"chapter_1_scene_7_line_4" = "You are ordered to attack Kamakura's grain store.";
+"chapter_1_scene_7_line_5" = "Set it ablaze!";
+"chapter_1_scene_7_line_6" = "From Emperor.";
+"chapter_1_scene_7_line_7" = "You must now encode the message, so the message looks the same as the original.";
+// Solved Text
+"chapter_1_scene_7_solved_line_1" = "You have encoded the message, the ninja will now believe it is from the Emperor.";
+"chapter_1_scene_7_solved_line_2" = "The messenger takes your fake message to the ninja, instead!";
+
+// Scene 8 - Story
+"chapter_1_scene_8_line_1" = "'The deed is done!'";
+"chapter_1_scene_8_line_2" = "'I am a genius.'";
+"chapter_1_scene_8_line_3" = "'The citizens will soon be angry at their beloved emperor when the food runs out!'";
+"chapter_1_scene_8_line_4" = "'Keep monitoring the communications.'";
+"chapter_1_scene_8_line_5" = "'Someone is bound to alert the emperor about the subterfuge.'";
+
+// Scene 9 - ZenPuzzle
+"chapter_1_scene_9_line_1" = "You find a communication to the Emperor.";
+"chapter_1_scene_9_line_2" = "You must decode it, by solving this magic square.";
+// Solved Text
+"chapter_1_scene_9_solved_line_1" = "You have decoded the message!";
+"chapter_1_scene_9_solved_line_2" = "You read it...";
+"chapter_1_scene_9_solved_line_3" = "Dear Emperor,";
+"chapter_1_scene_9_solved_line_4" = "Five ninjas were seen entering the grain store in Kamakura.";
+"chapter_1_scene_9_solved_line_5" = "This could be a plot.";
+"chapter_1_scene_9_solved_line_6" = "From Retainer Koyama (seal).";
+
+// Scene 10 - Story
+"chapter_1_scene_10_line_1" = "'As expected!'";
+"chapter_1_scene_10_line_2" = "'The traitor Koyama!'";
+"chapter_1_scene_10_line_3" = "'Bring me the \"sword\" of Koyama!'";
+
+// Scene 11 - Story
+"chapter_1_scene_11_line_1" = "'Wonderful... Koyama is no more!'";
+"chapter_1_scene_11_line_2" = "'You are a true samurai.'";
+"chapter_1_scene_11_line_3" = "'Now we must hide our actions from the emperor.'";
+"chapter_1_scene_11_line_4" = "'The citizens have already started to storm the castle.'";
+"chapter_1_scene_11_line_5" = "'We must make sure they are met with suspicion and a cold heart!'";
+"chapter_1_scene_11_line_6" = "'Send a message to the emperor and pretend to be Koyama.'";
+"chapter_1_scene_11_line_7" = "'Take Koyama's seal and use it to sign the forgery.'";
+"chapter_1_scene_11_line_8" = "'The emperor will believe it because of the seal!'";
+
+// Scene 12 - ZenPuzzle
+"chapter_1_scene_12_line_1" = "You must pretend to be Koyama, by creating a fake message.";
+"chapter_1_scene_12_line_2" = "You create a fake message...";
+"chapter_1_scene_12_line_3" = "Dear Emperor,";
+"chapter_1_scene_12_line_4" = "The citizens have set fire to the grain out of protest!";
+"chapter_1_scene_12_line_5" = "You must take action before they overrun your castle!";
+"chapter_1_scene_12_line_6" = "Koyama.";
+"chapter_1_scene_12_line_7" = "You must now encode the fake message in-place of the real one, so the message looks the same as the original.";
+// Solved Text
+"chapter_1_scene_12_solved_line_1" = "You have encoded the fake message, it is now indistinguishable from the original.";
+"chapter_1_scene_12_solved_line_2" = "You have stamped Koyama's Seal on the message, to sign it like Koyama would.";
+"chapter_1_scene_12_solved_line_3" = "The messenger takes your fake message to the Emperor!";
+
+// Scene 13 - CutScene
+"chapter_1_scene_13_line_1" = "Later that night...";
+"chapter_1_scene_13_line_2" = "The Emperor prepares the castle archers for defence.";
+"chapter_1_scene_13_line_3" = "At the big gate, 15 citizens of Kamakura stand with shovels, picks and billhooks.";
+"chapter_1_scene_13_line_4" = "The captain of the Imperial guard Nagai, stands above the gates, on the cliff, looking down, with a battalion of archers on command.";
+
+// Scene 14 - Story
+"chapter_1_scene_14_line_1" = "'Something's not right, these are our own citizens!'";
+"chapter_1_scene_14_line_2" = "'Why did they burn the grain?'";
+"chapter_1_scene_14_line_3" = "'This could be a plot!'";
+"chapter_1_scene_14_line_4" = "'We must do something.'";
+
+// Scene 15 - CutScene
+"chapter_1_scene_15_line_1" = "Nagai orders the guards to roll the imperial sake barrels down the keep, towards the citizens.";
+
+// Scene 16 - Story
+"chapter_1_scene_16_line_1" = "'The guards attack us!'";
+"chapter_1_scene_16_line_2" = "'Brace yourselves!'";
+
+// Scene 17 - CutScene
+"chapter_1_scene_17_line_1" = "50 minutes later, the citizens are rolling around on the floor, drunk, laughing and making merry.";
+"chapter_1_scene_17_line_2" = "An empty barrel of sake is turned on its side and used as a drum.";
+
+// Scene 18 - Story
+"chapter_1_scene_18_line_1" = "'Nagai you saved us!'";
+"chapter_1_scene_18_line_2" = "'You thought of a way to defend us, without killing citizens!'";
+"chapter_1_scene_18_line_3" = "'I am happy you did not just obey orders.'";
+
