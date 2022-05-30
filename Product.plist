@@ -15,7 +15,7 @@
 	<key>library</key>
 	<false/>
 	<key>defaultLibrary</key>
-	<string>虎.engine.art</string>
+	<string>虎.engine.assets</string>
 	<key>libraries</key>
 	<array/>
 	<key>languages</key>
