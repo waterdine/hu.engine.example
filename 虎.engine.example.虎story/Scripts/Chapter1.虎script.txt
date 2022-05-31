@@ -1,0 +1,42 @@
+// Scene 1 - Intro
+
+/* Chapter 1 */
+
+// Scene 2 - ChapterTransition, ShowPressToContinue: True
+HorizontalNumber: Chapter 1
+HorizontalTitle: Simple Scenes
+VerticalNumber: 第一話
+VerticalTitle: 第一話
+
+// Scene - CutScene, Image: IntroTree
+Arhat uses a simple scripting syntax to allow creation of visual novels.
+Each scene allows a changing background a, transition and scene type.
+This is a fullscreen “cutscene” type.
+
+// Scene - Story, Image: IntroTree
+GrubbyVillager: Hello I am Grubby Villager.
+GrubbyVillager: This is a story based scene type with a character.
+
+// Scene - Choice
+DirectingText: Which path?
+Choice1Text: Path A (Continue).
+Choice2Text: Path B (Jump). // SkipTo: PathB
+
+// Scene - Story, Image: IntroTree
+GrubbyVillager: Welcome to Path A.
+GrubbyVillager: At the end of Path A, you usually skip past Path B.
+GrubbyVillager: In this example we SkipTo the Ending.
+
+// SkipTo: Ending
+
+// Label: PathB
+// Scene - Story, Image: IntroTree
+GrubbyVillager: Welcome to Path B.
+GrubbyVillager: This has skipped over the scenes in Path A.
+
+// Label: Ending
+// Scene - Story, Image: IntroTree
+GrubbyVillager: This ends the simple branching story example.
+GrubbyVillager: Now to the credits!
+
+// Credits
