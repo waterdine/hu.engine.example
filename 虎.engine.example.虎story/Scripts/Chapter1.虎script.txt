@@ -39,4 +39,4 @@ GrubbyVillager: This has skipped over the scenes in Path A.
 GrubbyVillager: This ends the simple branching story example.
 GrubbyVillager: Now to the credits!
 
-// Credits
+// Scene - Credits

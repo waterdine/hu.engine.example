@@ -21,7 +21,7 @@
 			<key>id</key>
 			<string>9FFACE51-B6B7-4098-ACF7-ECD164911600</string>
 			<key>name</key>
-			<string>A. Writer</string>
+			<string>C.W. Spellswell</string>
 			<key>title</key>
 			<string>Writer</string>
 		</dict>
@@ -29,7 +29,7 @@
 			<key>id</key>
 			<string>CE59F3AC-A7F7-443D-BFA4-9A07C09B92B0</string>
 			<key>name</key>
-			<string>An Illustrator</string>
+			<string>Goode Brush</string>
 			<key>title</key>
 			<string>Illustrator</string>
 		</dict>
@@ -37,25 +37,9 @@
 			<key>id</key>
 			<string>682BCF4B-CD79-4EE3-A624-73AAD68E8141</string>
 			<key>name</key>
-			<string>Someone</string>
+			<string>Pays Bills</string>
 			<key>title</key>
-			<string>Produced By</string>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>F15959F4-7699-4C0D-BCA1-52BAE80A266F</string>
-			<key>name</key>
-			<string>A. Developer</string>
-			<key>title</key>
-			<string>Developer</string>
-		</dict>
-		<dict>
-			<key>id</key>
-			<string>6FB2C351-85C5-4CFD-B621-656B11E12FFF</string>
-			<key>name</key>
-			<string>A Publisher</string>
-			<key>title</key>
-			<string>Publisher</string>
+			<string>Executive Producer</string>
 		</dict>
 	</array>
 	<key>Scripts</key>

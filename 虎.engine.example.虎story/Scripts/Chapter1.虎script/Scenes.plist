@@ -192,6 +192,10 @@
 				</dict>
 			</array>
 		</dict>
+		<dict>
+			<key>Scene</key>
+			<string>Credits</string>
+		</dict>
 	</array>
 </dict>
 </plist>
